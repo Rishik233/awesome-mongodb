@@ -53,6 +53,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [MongoDB introduction](https://docs.mongodb.com/manual/introduction/)
  - [MongoDB documentation](https://docs.mongodb.com/manual/)
  - [MongoDB tutorials](https://docs.mongodb.com/manual/tutorial/)
+ - [Mongodb Official Resources Link](https://resources.mongodb.com/)
 
 ### Articles
  - [Five Things About Scaling MongoDB (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/five-things/) - Scale 101
